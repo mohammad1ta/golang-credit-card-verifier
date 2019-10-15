@@ -2,4 +2,6 @@
 Verify credit card in golang
 
 ## Usage
-~/ go run verifier.go "1234 5678 9012 3456"
+You can check your credit-card by below command:  
+
+> ~/ go run verifier.go "1234 5678 9012 3456"
